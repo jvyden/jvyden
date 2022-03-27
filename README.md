@@ -1,7 +1,5 @@
-### I don't use GitHub
+### Hello!
 
-You can find my current projects elsewhere:
+If you're curious about what I do, feel free to check out my portfolio at https://jvyden.xyz/portfolio!
 
-https://gitlab.jvyden.xyz/jvyden
-
-https://gitlab.ayyeve.xyz/jvyden
+I like to keep things up to date in one place so I don't have to update this every 5 minutes, lol.
