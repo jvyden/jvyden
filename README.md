@@ -13,7 +13,10 @@ The best advice I can give is to turn around and go do some real work :)
 Linux is shit, Windows is shit, macOS is shit, TempleOS is shit.
 Rider is shit, Visual Studio is shit, Atom is shit, Vim is shit, Emacs is shit.
 
-Everything is shit, so use the software that's the least shit for you. If someone says otherwise, they're shit.
+***Everything is shit, so use the software that's the least shit for you.*** If someone says the tools and workflow you've stuck to for years suck, then they're wrong because they're not you.
+There's no objectivity in software choice. It's ***your*** choice. Likewise, other people's choices are theirs to make.
+
+But just remember to experiment with your workflow every so often, that's how you learn! If nothing else you'll just like to learn your tools more.
 
 ### Everyone else is terrified
 The maintainer is just as nervous to handle your issue as you are to submit it.
