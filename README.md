@@ -5,5 +5,5 @@ I create gists occasionally. They unfortunately don't show up here on the main G
 
 Most of my current work is done in the [LittleBigRefresh](https://github.com/LittleBigRefresh) org, but I do have some personal projects here
 
-## Other Things:tm:
+## Other Things™
 [Random advice](https://github.com/jvyden/jvyden/blob/master/advice.md)
